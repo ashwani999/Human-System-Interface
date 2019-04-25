@@ -1,2 +1,2 @@
-# Human-System-Interface
+# Human System Interface
 Human System Interface is related to many streams. Most notably, HSI closely resembles Systems Engineering, and formally, an effective SE method should already include HSI flow. In actual practice, well, system engineers usually inadvertently neglect human concerns. That is, “there has been a continuing concern that, in each phase of development, the human element is not sufficiently considered along with hardware and software elements” It was for this reason that HSI developed into a unique specialty area.
